@@ -1,7 +1,5 @@
 ## Hemo0223
 
-<!--
-**Hemo0223/Hemo0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: uakpuak@gmail.com <- This is my business mail
 - 😄 Pronouns: hee-mo
 - ⚡ Fun fact: I speak Chinese better than English, except for my native language. Korean.
--->
+
