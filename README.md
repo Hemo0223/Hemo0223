@@ -1,7 +1,6 @@
 ## Hemo0223
 
-
-Here are some ideas to get you started:
+-----
 
 - 🔭 I’m currently studying in University
 - 🌱 I’m currently learning Chinese Studies, AI and analyzing BigData
